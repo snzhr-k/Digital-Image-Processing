@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-src = "ImProcExamples2025/hk_flower_h.jpg"
+src = ("../Practice/hk_flower_h.jpg")
 img = cv2.imread(src)
 
 
